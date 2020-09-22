@@ -1,3 +1,5 @@
 # Image-Processing & Computer-Vision
 EEE 6512 Assignment  
-Instructed by Doc. DAMON L. WOODARD
+Instructed by Doc. DAMON L. WOODARD  
+Department of Electrical & Computer Engineering  
+University of Florida
